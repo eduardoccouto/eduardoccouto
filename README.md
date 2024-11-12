@@ -18,6 +18,9 @@ Estou sempre aprendendo e explorando novas tecnologias, e aqui no meu GitHub voc
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
+
+![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eduardoccouto&show_icons=true&theme=radical)
+
 ## 🌐 Minhas redes:
 
 
