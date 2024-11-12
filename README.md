@@ -20,6 +20,8 @@ Estou sempre aprendendo e explorando novas tecnologias, e aqui no meu GitHub voc
 
 
 ![Estatísticas de GitHub](https://github-readme-stats.vercel.app/api?username=eduardoccouto&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoccouto&layout=compact&theme=radical)
+
 
 ## 🌐 Minhas redes:
 
