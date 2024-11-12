@@ -20,10 +20,6 @@ Me chamo Eduardo e sou estudante de Engenharia da Computação na Universidade d
 # 🏆 Contribuições e Realizações
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=eduardoccouto&theme=radical&no-frame=true&row=1&column=6)
 
-## 🚀 Projetos Destacados
-- **Segredos de Enet** - Aplicativo de gamificação do turismo com realidade aumentada.
-- **Sistema de Gestão de Energia** - Projeto IoT para monitoramento e controle de consumo energético.
-
 Explore mais projetos no meu repositório e acompanhe minha jornada de aprendizado! 
 
 # 🌐 Minhas redes:
@@ -32,7 +28,4 @@ Explore mais projetos no meu repositório e acompanhe minha jornada de aprendiza
 
 📫 **E-mail:** coutoeduardo858@gmail.com
 
-# 🎯 Objetivos de Aprendizado em 2024
-- Aprofundar conhecimentos em **JavaScript** e **Node.js** para desenvolvimento web.
-- Participar de projetos colaborativos de **IoT** e **desenvolvimento de software**.
-- Fortalecer minha base em **engenharia de software** e **boas práticas de programação**.
+
