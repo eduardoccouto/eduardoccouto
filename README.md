@@ -21,8 +21,12 @@ Estou sempre aprendendo e explorando novas tecnologias, e aqui no meu GitHub voc
 ## 🌐 Minhas redes:
 
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ntidudu/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/eduardo-da-costa-couto-827261289)
+<!-- LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-da-costa-couto-827261289)
+
+<!-- Instagram -->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ntidudu)
+
 
 **E-mail : coutoeduardo858@gmail.com**
 
