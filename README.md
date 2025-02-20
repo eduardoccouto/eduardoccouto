@@ -2,8 +2,7 @@
 Me chamo Eduardo e sou estudante de Engenharia da Computação na Universidade de Santa Cruz do Sul desde o segundo semestre de 2023. Estou sempre aprendendo e explorando novas tecnologias! Aqui no meu GitHub, você encontrará repositórios relacionados aos meus aprendizados com Python, Java/JavaScript, e atividades da faculdade. Além disso, tenho interesse em projetos que envolvem IoT, redes e desenvolvimento de software.
 
 - 🌱 Atualmente aprendendo: JavaScript, Node.js, e desenvolvimento full-stack.
-- 🔭 Projetos em andamento: Gamificação do turismo na cidade de Enet e outros desafios da faculdade.
-- ⚡ Curiosidade: Eu comecei minha jornada no setor de telemarketing antes de ingressar no mundo da tecnologia!
+- 🔭 Projetos em andamento: Estudo orientado a programação backend, com foco em Spring Boot.
 
 # 💻 Tecnologias que eu utilizo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
