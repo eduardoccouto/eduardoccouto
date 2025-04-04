@@ -1,15 +1,14 @@
 # 💫 Sobre mim:
-Me chamo Eduardo e sou estudante de Engenharia da Computação na Universidade de Santa Cruz do Sul desde o segundo semestre de 2023. Estou sempre aprendendo e explorando novas tecnologias! Aqui no meu GitHub, você encontrará repositórios relacionados aos meus aprendizados com Python, Java/JavaScript, e atividades da faculdade. Além disso, tenho interesse em projetos que envolvem IoT, redes e desenvolvimento de software.
+Me chamo Eduardo e sou estudante de Engenharia da Computação na Universidade de Santa Cruz do Sul desde o segundo semestre de 2023. Estou sempre aprendendo e explorando novas tecnologias! Aqui no meu GitHub, você encontrará repositórios relacionados aos meus aprendizados com Java, Python e atividades da faculdade. Além disso, tenho interesse em projetos que envolvem IoT, redes e desenvolvimento de software.
 
-- 🌱 Atualmente aprendendo: JavaScript, Node.js, e desenvolvimento full-stack.
+- 🌱 Atualmente aprendendo: Desenvolvimento Web(Java, Spring Boot.
 - 🔭 Projetos em andamento: Estudo orientado a programação backend, com foco em Spring Boot.
 
 # 💻 Tecnologias que eu utilizo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white)
 
 # 📊 Estatísticas do GitHub
